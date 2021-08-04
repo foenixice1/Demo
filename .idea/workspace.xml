@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wD4cJzr3m6fRBHnP9rr1mDIgOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +34,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,7 +53,7 @@
       <workItem from="1627980441833" duration="1530000" />
       <workItem from="1627982053604" duration="2236000" />
       <workItem from="1628039789170" duration="4107000" />
-      <workItem from="1628060287623" duration="5759000" />
+      <workItem from="1628060287623" duration="6069000" />
     </task>
     <servers />
   </component>
